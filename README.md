@@ -1,2 +1,2 @@
 # hyprlandCsanadDots
-![alt text]([http://url/to/img.png](https://github.com/csanadlangos/hyprlandCsanadDots/blob/main/images/main.png))
+![alt text](https://raw.githubusercontent.com/csanadlangos/hyprlandCsanadDots/main/images/main.png)
