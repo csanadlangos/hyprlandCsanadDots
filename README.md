@@ -11,3 +11,5 @@ Neofetch theme: https://github.com/Chick2D/neofetch-themes
 Zathura theme: https://github.com/dracula/zathura
 
 Kitty theme: https://github.com/dracula/kitty
+
+Wallpaper: https://github.com/aynp/dracula-wallpapers
